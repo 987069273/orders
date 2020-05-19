@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "shop": "院落创意菜",
+        "picture": "https://tse3-mm.cn.bing.net/th/id/OIP.XnBbwq8qQjGKT2lpt0eUowHaLG?pid=Api&rs=1",
+        "product": "百香果（冷饮）1扎",
+        "price": 19.9,
+        "ifCommented": true
+    },{
+        "id": 2,
+        "shop": "正一味",
+        "picture": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1555431384,3705827422&fm=26&gp=0.jpg",
+        "product": "肥牛石锅拌饭+鸡蛋羹1份",
+        "price": 29,
+        "ifCommented": false
+    },{
+        "id": 3,
+        "shop": "Saluo冻酸奶",
+        "picture": "http://language.chinadaily.com.cn/images/attachement/jpg/site1/20160706/64006a484d7218e6f0a92e.jpg",
+        "product": "冻酸奶（小杯）1份",
+        "price": 20,
+        "ifCommented": false
+    },{
+        "id": 4,
+        "shop": "吉野家",
+        "picture": "http://www.4008517517.net/uploads/allimg/1709/1-1F9201536460-L.jpg",
+        "product": "吉汁烧鱼+中杯汽水/紫菜蛋花汤1份",
+        "price": 14,
+        "ifCommented": false
+    }
+]
